@@ -1,6 +1,5 @@
 //Garbage collection
 package com_pack2;
-
 public class Example116 
 {
     void meth1()

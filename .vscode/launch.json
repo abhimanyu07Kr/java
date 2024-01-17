@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Example116",
+      "request": "launch",
+      "mainClass": "com_pack2.Example116",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example107",
+      "request": "launch",
+      "mainClass": "com_pack2.Example107",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example106",
+      "request": "launch",
+      "mainClass": "com_pack2.Example106",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example105",
+      "request": "launch",
+      "mainClass": "com_pack2.Example105",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example13",
+      "request": "launch",
+      "mainClass": "com_pack2.Example13",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassF",
+      "request": "launch",
+      "mainClass": "com_pack1.ClassF",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "com_pack1.Test",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "com_pack1.pattern",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "patten1",
+      "request": "launch",
+      "mainClass": "com_pack1.patten1",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
       "name": "Example100",
       "request": "launch",
       "mainClass": "com_pack2.Example100",

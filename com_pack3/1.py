@@ -57,7 +57,7 @@
 #     print(d,"is smaller no")
 n=int(input("enter the no  "))
 # converting String to int 
-# n=int(n)
+n=int(n)
 if n%2==0:
     print("even no.")
 else:

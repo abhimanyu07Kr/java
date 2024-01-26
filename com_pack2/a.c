@@ -1,13 +1,17 @@
-#include<stdio.h>
 
-    int main()
-    {
-        int i=0;
-        do
-        {
-            printf("hello \n");
-            i++;
-        } while (i<=10);
-        
-        return 0;
+#include<stdio.h>
+int main(){
+    int n,i,j,space;
+    printf("Enter the row:");
+    scanf("%d",&n);
+    for(i=1;i<=n;i++){
+        for(space=1;space<=n-i;space++){
+            printf(" ");
+        }
+        for(j=1;j<=i;j++){
+             printf("%d ",i);
+        }
+        printf(" \n");
     }
+    return 0;
+}

@@ -3,6 +3,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ClassE",
+      "request": "launch",
+      "mainClass": "itsMind.ClassE",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example72",
+      "request": "launch",
+      "mainClass": "com_pack2.Example72",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassI",
+      "request": "launch",
+      "mainClass": "com_pack1.ClassI",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "com_pack3.Solution",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example124",
+      "request": "launch",
+      "mainClass": "com_pack2.Example124",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example123",
+      "request": "launch",
+      "mainClass": "com_pack2.Example123",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassD",
+      "request": "launch",
+      "mainClass": "itsMind.ClassD",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example122",
+      "request": "launch",
+      "mainClass": "com_pack2.Example122",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassC",
+      "request": "launch",
+      "mainClass": "itsMind.ClassC",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassB",
+      "request": "launch",
+      "mainClass": "itsMind.ClassB",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassA",
+      "request": "launch",
+      "mainClass": "itsMind.ClassA",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example119",
+      "request": "launch",
+      "mainClass": "com_pack2.Example119",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "ClassG",
+      "request": "launch",
+      "mainClass": "com_pack1.ClassG",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example117",
+      "request": "launch",
+      "mainClass": "com_pack2.Example117",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example144_1",
+      "request": "launch",
+      "mainClass": "com_pack2.Example144_1",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
+      "name": "Example115",
+      "request": "launch",
+      "mainClass": "com_pack2.Example115",
+      "projectName": "CORE JAVA_3286302a"
+    },
+    {
+      "type": "java",
       "name": "Example116",
       "request": "launch",
       "mainClass": "com_pack2.Example116",

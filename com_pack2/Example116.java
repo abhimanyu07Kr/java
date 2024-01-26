@@ -25,16 +25,18 @@ public class Example116
         System.gc();
         System.out.println("obj1 : "+obj1.hashCode());
         System.out.println("obj2 : "+obj2.hashCode());
-        // try {
-        //     System.out.println("try block executed ");
-        //     System.out.println("obj2 : "+obj2.hashCode());
-        // } catch (Exception e) {
-        //     System.out.println("catch block executed ");
-        //     e.printStackTrace();
-        // }
-        // finally{
-        //     System.out.println("finally block executed");
-        // }
+        try {
+            System.out.println("try block executed ");
+            System.out.println("obj2 : "+obj2.hashCode());
+        } catch (Exception e) {
+            System.out.println("catch block executed ");
+            e.printStackTrace();
+        }
+        finally{
+            System.out.println("finally block executed");
+        }
         System.out.println("---------------------");
+        System.out.println(obj1.toString());
+        System.out.println(obj2.toString());
     }
 }
